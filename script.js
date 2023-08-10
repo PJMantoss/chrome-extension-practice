@@ -1,1 +1,3 @@
-async function fetchData(){}
+async function fetchData(){
+    const res=await fetch(){}
+}
