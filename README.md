@@ -5,3 +5,4 @@
 ### Tech Used
 - HTML
 - Bootstrap
+- Vanilla JavaScript
