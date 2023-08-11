@@ -5,7 +5,7 @@
     "manifest_version": 3,
     "author": "Sampurna Chapagain",
     "action": {
-        "default_popup",
+        "default_popup": "index.html",
         "default_title"
 
     }
