@@ -3,5 +3,6 @@
     "version": "1.0.0",
     "description": "latest covid data of UK",
     "manifest_version": 3,
-    "author": "Sampurna Chapagain"
+    "author": "Sampurna Chapagain",
+    "action": {}
 }
