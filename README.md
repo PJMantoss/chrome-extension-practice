@@ -6,3 +6,4 @@
 - HTML
 - Bootstrap
 - Vanilla JavaScript
+- Covid-19 API by UK Government
