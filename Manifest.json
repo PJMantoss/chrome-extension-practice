@@ -6,6 +6,7 @@
     "author": "Sampurna Chapagain",
     "action": {
         "default_popup",
-        
+        "default_title"
+
     }
 }
