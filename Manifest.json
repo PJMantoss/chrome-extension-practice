@@ -6,7 +6,7 @@
     "author": "Sampurna Chapagain",
     "action": {
         "default_popup": "index.html",
-        "default_title"
+        "default_title": "Latest Covid Report"
 
     }
 }
